@@ -1,0 +1,90 @@
+#list-type{
+    width:600px;
+    margin:50px auto;
+}
+.type{
+    width:150px;
+    float:left;
+}
+.name-type span{
+    font-weight:bold;
+    font-size:14;
+}
+.type a{
+    font-width:bold;
+    font-size:14px;
+    color:white;
+}
+body{
+    background:url(images/bg.jpg) center fixed;
+}
+.list-song{
+    width:700px;
+    background:white;
+    margin:50px auto;
+    height:auto;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 5px; 
+    border: 2px solid #f0f0f0; 
+    border-bottom: 2px solid #ccc; 
+}
+.list-song li{
+    list-style-type:none;
+    padding-top:15px;
+    height:40px;
+}
+.list-song .song-name {
+    float: left;
+    width: 283px;
+    padding-right: 7px;
+}
+.list-song .singer{
+    width:150px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    float:left;
+}
+.list-song .num{
+    width:50px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    float:left;
+}
+.list-song .user-post{
+    width:150px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    float:left;
+}
+.listen{
+    margin-top:50px;
+}
+.list-song .like{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    float:left;
+}
+.tieude{
+    width: 720px;
+    background: white;
+    margin: 50px auto;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 5px;
+    border: 2px solid #f0f0f0;
+    border-bottom: 2px solid #ccc;
+    padding: 10px;
+}
